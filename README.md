@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minghan.
-- 👀 I’m interested in Java, especially in distributed system and micro-service architecture, etc.
+- 👀 I’m interested in Java, especially in distributed system and microservices, etc.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Java.
 - 📫 How to reach me, 171757607@qq.com
