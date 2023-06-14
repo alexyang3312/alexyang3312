@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, especially in distributed system and microservices, etc.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Java.
-- 📫 How to reach me, 171757607@qq.com
+- 📫 How to reach me, YOU KNOW.
 
 <!---
 alexyang3312/alexyang3312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
